@@ -36,6 +36,17 @@
 - 其他[為鬧鐘提醒App擁有]: 鬧鐘設定模組: 從系統接收該名使用者的藥單資料，並建立鬧鐘。
 - 註冊/登入模組：註冊或是登入帳號，包含電子郵件驗證、找回密碼功能
 
+## NTOU CS Project｜Project Sources
+- [藥物提醒鬧鐘App](https://github.com/wc2014920/drug-app-ntou-cse-110)
+
+- [藥物提醒系統](https://github.com/wc2014920/drug-web-ntou-cse-110)
+
+## NTOU CS Project｜References
+1.	[LARAVEL 框架關鍵技術解析](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjkxcme0rj0AhXKwosBHfJABFQQFnoECAIQAQ&url=https%3A%2F%2Fwww.books.com.tw%2Fproducts%2FCN11363596&usg=AOvVaw0_nFCCSXlIZZ7C_jKYRH3H)
+2.	[使用 LARAVEL 8 PHP 主流框架打造 RESTFUL API（IT邦幫忙鐵人賽系列書)](https://www.books.com.tw/products/0010875532)
+3.	[第一行代碼 : ANDROID, 3/E](https://www.tenlong.com.tw/products/9787115524836)
+4.	Android kotlin 參考影片 YOUTUBE頻道:[Simplfied code](https://www.youtube.com/c/SimplifiedcodingNetOfficial)
 
 
+## NTOU CS Project｜License：© NTOU CS 2021 Chen, Wen-Chieh
 This package is licensed under MIT license. See [LICENSE](https://github.com/wc2014920/drug-app-ntou-cse-110/blob/master/LICENSE) for details.
