@@ -4,8 +4,10 @@
             
 
 ## NTOU CS Project - 110 | 摘要
-
-![圖片](https://user-images.githubusercontent.com/58461634/143682747-c4784f56-7f0c-4739-8797-5b07dd72d3a7.png)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/58461634/143682747-c4784f56-7f0c-4739-8797-5b07dd72d3a7.png" /><br>
+  
+</p>
 
 圖 1. 參考概圖
 
