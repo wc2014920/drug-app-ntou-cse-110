@@ -52,4 +52,5 @@
 This package is licensed under MIT license. See [LICENSE](https://github.com/wc2014920/drug-app-ntou-cse-110/blob/master/LICENSE) for details.
 
 ## NTOU CS Project｜Password
-Please send a email to this [account](mailto:wc2014920@gmail.com). 
+
+Please send a email to this [account](mailto:wc2014920@gmail.com) with chinese if you need the code file for your work. 
